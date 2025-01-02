@@ -32,7 +32,7 @@ body {
 	font-size: 32px;
 	line-height: 17px;
 	color: #000000;
-	margin-bottom: 20px;
+	margin-bottom: 60px;
 }
 
 .about-name {
@@ -57,7 +57,7 @@ body {
 /* project styles  */
 
 .projects {
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .title {
